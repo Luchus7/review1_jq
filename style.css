@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: medium;
+    background-color: #0099ff;
+}
+h1, h2 {
+    color: #cffa12;
+    border-bottom: thin dotted #111010;
+}
+h1 {
+    font-family: "Emblema One", sans-serif;
+    font-size: 220%;
+}
+h2 {
+    font-family: algerian;
+    font-size:130%;
+    font-weight: normal;
+    font-style: oblique;
+    text-decoration: underline;
+    line-height: 2rem;
+}
+blockquote {
+    font-style: italic;
+}
+p {
+    color: rgb(240, 81, 155);
+    font-style: bold;
+}
+li {
+    color: rgb(1, 15, 15);
+}
+.luchus{
+    padding: auto;
+    margin: 10px;
+    font-size: xxx-large;
+    font-family: algerian;
+    font-weight: 500;
+    
