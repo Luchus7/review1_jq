@@ -39,7 +39,7 @@ li {
     border-width: 5px;
     border-color: aqua;
     border-radius: 2%;
-    background-image: url(images/img1.jpeg);
+    background-image: url(images/img2.jpg);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: right;
 }
