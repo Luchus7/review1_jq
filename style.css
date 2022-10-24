@@ -1,3 +1,7 @@
+/*Author: Jose Quispe*/
+/*Date: 10/16/2022*/
+/*Course: CPTR 245*/
+/*assignment: Superhero*/
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
     font-size: medium;
@@ -24,11 +28,12 @@ blockquote {
 }
 p {
     color: rgb(240, 81, 155);
-    font-style: bold;
+    font-weight: bold;
 }
 li {
     color: rgb(1, 15, 15);
 }
+/*I used the class in h1*/
 .luchus{
     padding: 10% 20%;
     margin: 15px;
